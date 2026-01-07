@@ -42,7 +42,7 @@
     "color_footer_link": "#aaaeb6",
     "color_footer_link_hover": "#FFFFFF",
     "color_footer_border": "#868d94",
-    "color_footer_bg": "#2c2d2e",
+    "color_footer_bg": "#000000",
     "block_shadows": true,
     "section_spacing_desktop": 80,
     "block_border_radius": 16,

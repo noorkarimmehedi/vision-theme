@@ -81,7 +81,7 @@
         "style": "style5",
         "header_shadow": "header--shadow-small",
         "menu": "main-menu",
-        "cart_icon": "cart",
+        "cart_icon": "bag",
         "minimized_search": true,
         "transparent_header": false,
         "show_social_links": true,
